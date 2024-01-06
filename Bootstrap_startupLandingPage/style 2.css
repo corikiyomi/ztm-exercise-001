@@ -10,16 +10,19 @@ html {
   background-size: cover;
 }
 
+.container {
+  
+}
 
 h1 {
   text-transform: uppercase;
   color: #fff;
-  font-size: 3rem;
+  font-size: 2.5rem;
   text-align: center;
 }
 
 .buffer {
-  height: 14rem;
+  height: 11rem;
 }
 
 button {
